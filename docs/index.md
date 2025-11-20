@@ -9,3 +9,20 @@ To calculate an average:
 ```python
 from utils import calculate_average
 print(calculate_average([1, 2, 3]))
+
+__________________________________________________________________________
+https://pes1ug24ca131.github.io/copilot-demo/
+____________________________________________________________
+---
+
+# ⭐ **How AI-Assisted Docs Reduce Manual Effort (2–3 lines)**  
+Copilot automatically generates clean, structured documentation sections like **Usage**, **Examples**, and **API Overview** without writing them manually.  
+This speeds up documentation, ensures consistent formatting, and prevents missing or incomplete descriptions.
+
+---
+
+If you want, I can also:
+
+✅ create your real `index.md`  
+✅ help you structure `/docs`  
+✅ write a perfect 1-page documentation file for your assignment.
